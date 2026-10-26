@@ -1,0 +1,21 @@
+{
+    "yellow-100": {
+        "red-300": {
+            "result": "pass",
+            "accent": {
+                "black-900": "pass",
+                "white-100": "fail"
+            }
+        },
+        "orange-100": {
+            "result": "pass",
+            "accent": {
+                "black-900": "pass"
+            }
+        },
+        "yellow-100": {
+            "result": "fail"
+        }
+    }
+}
+
